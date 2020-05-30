@@ -1,0 +1,12 @@
+{
+  "manifest_version": "1",
+  "name": "Palenight Theme - By Frank Rocha",
+  "display_name": "Palenight Theme",
+  "extend_theme": "dark",
+  "css_file": "theme.css",
+  "css_file_gtk_3.20+": "theme-gtk-3.20.css",
+  "matched_text_hl_colors": {
+    "when_selected": "#F8484E",
+    "when_not_selected": "#E775A9"
+  }
+}
